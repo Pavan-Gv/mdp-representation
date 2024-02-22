@@ -33,7 +33,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 * 0 - Otherwise
 
 ## GRAPHICAL REPRESENTATION:
-![WhatsApp Image 2024-02-22 at 10 25 16_0322442f](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/3c74fe03-6e79-4906-b866-79c4efa5d687)
+![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/3a9d63bd-03c5-4830-9f2c-99264cfccb47)
 
 
 ## PYTHON REPRESENTATION:
