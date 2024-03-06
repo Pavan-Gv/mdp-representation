@@ -1,6 +1,9 @@
 # MDP REPRESENTATION
-### Date:  ___ / ___ /____
-### Reg No.: 212221240013
+```
+Date:  ___ / ___ /____
+Developed By : G Venkata Pavan Kumar
+Reg No.: 212221240013
+```
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
 
