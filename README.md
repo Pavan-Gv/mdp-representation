@@ -98,7 +98,7 @@ P = {
 ```
 
 ## OUTPUT:
-![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/2294e571-9b0f-4a48-a256-1d7a9cd7dcb0)
+![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/428915d0-c2d1-4262-ae46-d6e2c94fb38f)
 
 
 
